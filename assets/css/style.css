@@ -1,0 +1,74 @@
+.td-padding1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.td-width{
+    min-width: 250px;
+    font-weight: bold;
+}
+.table-detail{
+    margin-left: 30px;
+}
+
+/* Cetak */
+.judul-cetak{
+    text-align: center;
+    font-weight: bold;
+}
+
+.table-custom{
+    border: 1px solid black;
+}
+
+.table-custom td{
+    padding: 3px;
+}
+
+.td-width2{
+    width: 50px;
+    text-align: center;
+}
+
+.td-width3{
+    width: 300px;
+}
+.td-width4{
+    width: 1150px;
+}
+
+.td-width5{
+    width: 200px;
+}
+
+.td-width6{
+    width: 120px;
+}
+
+.btn-skema{
+    margin-bottom: 10px;
+}
+
+.table-ttd{
+    width: 100%;
+    margin-top:30px;
+    margin-bottom: 10px;
+}
+
+.td-ttd-width{
+    width:30%;
+}
+
+.table-custom-dokumenAbdimas td{
+    padding-top: 10px;
+    padding-right: 20px;
+    font-weight: bold;
+}
+
+#lembar-pengesahan{
+    font-family: 'Times New Roman';
+    font-size: 1pc;
+}
+
+.card-custom{
+    height: 300px;
+}
